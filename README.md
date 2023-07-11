@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20076390/abhijeet-bose-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20076390/abhijeet-bose-das" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/abhiiiiiiijeet?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/abhiiiiiiijeet?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abhiiiiijeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhiiiiijeet/" height="30" width="40" /></a>
+<a href="https://instagram.com/abhiiiiiiijeet?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/abhiiiiiiijeet?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhiiiiijeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhiiiiijeet/" height="30" width="40" /></a>
 <a href="https://discord.gg/abhiiiiiiijeet#6377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhiiiiiiijeet#6377" height="30" width="40" /></a>
 </p>
 

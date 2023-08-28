@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiiiijit&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiiiijit" /> </p>
 
-- 🔭 I’m currently working on **Food Delivery System**
+- 🔭 I’m currently working on **Harvest System**
 
-- 🌱 I’m currently learning **AWS and UI/UX**
+- 🌱 I’m currently learning **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://abhijitbosedas.vercel.app/](https://abhijitbosedas.vercel.app/)
 

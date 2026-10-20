@@ -1,33 +1,66 @@
-<h1 align="center">Hi 👋, I'm Abhijit Bose Das</h1>
-<h3 align="center">A passionate Software Develop Enthusiast from India</h3>
+<h1 align="center">Hi, I'm Abhijit Bose Das 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiiiijit&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiiiijit" /> </p>
-
-- 🔭 I’m currently working on **Kuhoo's Projects**
-
-- 🌱 I’m currently learning **Flutter Development**
-
-- 👨‍💻 All of my projects are available at [https://abhijitbosedas.vercel.app/](https://abhijitbosedas.vercel.app/)
-
-- 💬 Ask me about **JAVA, reactjs, Frontend Tools**
-
-- 📫 How to reach me **abhijeetbosedas8@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Abhiiiiijit/Resume](https://github.com/Abhiiiiijit/Resume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/20076390/abhijeet-bose-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20076390/abhijeet-bose-das" height="30" width="40" /></a>
-<a href="https://instagram.com/abhiiiiiiijeet?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/abhiiiiiiijeet?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhiiiiijeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhiiiiijeet/" height="30" width="40" /></a>
-<a href="https://discord.gg/abhiiiiiiijeet#6377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhiiiiiiijeet#6377" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Development Engineer I · Flutter · Android · iOS · Web · Fintech</b><br/>
+  I build student-loan apps at Kuhoo Finance, Mumbai.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://abhijitbosedas.com"><img src="https://img.shields.io/badge/Website-abhijitbosedas.com-1F4FD8?style=flat" alt="Website" /></a>
+  <a href="https://linkedin.com/in/abhijitbosedas"><img src="https://img.shields.io/badge/LinkedIn-abhijitbosedas-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhijeetbosedas8@gmail.com"><img src="https://img.shields.io/badge/Email-abhijeetbosedas8%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiiiiijit&show_icons=true&locale=en&layout=compact" alt="abhiiiiijit" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiiiiijit&show_icons=true&locale=en" alt="abhiiiiijit" /></p>
+### About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiiiijit&" alt="abhiiiiijit" /></p>
+I'm a Flutter developer with **2.5+ years in student-lending fintech**. I've shipped **3 products** across the loan lifecycle: the LOS Portal, the Partner Portal and the **Kuhoo Student App**, which has **150K+ downloads** (100K+ on Play Store, 50K+ on App Store).
+
+My work has cut manual effort by **70–90%** for credit, partner and servicing teams through RBI-compliant journeys, from onboarding to CKYC, sanction and post-disbursement.
+
+### What I've built at Kuhoo
+
+| Product | Platform | Highlights |
+|---|---|---|
+| **Kuhoo Student App** | Android & iOS | In-app CKYC · self-serve SOA/IC/NOC/RPS downloads (−80% manual effort) · EMI repayment plans · FCM push notifications |
+| **Loan Origination System** | Flutter Web | Sanction workflow redesign (−80% sanction time) · multi-insurance selection (−70% manual effort) |
+| **Partner Portal** | Flutter Web | Lead submission for agents and partners · onboarding automated for 100+ partners (−90% manual work) |
+| **Across all three** | Web, Android & iOS | MFA (OTP/TOTP), JWT sessions and data encryption · DigiLocker & Account Aggregator · Fastlane + GitLab CI/CD releases |
+
+### Featured project
+
+**[Khushhal](https://github.com/RishabhSharma02/Khushhal-Frontend)**: an offline-first Flutter app that helps rural MSMEs track their business health, plus a Field Officer Portal. Hindi and English, SQLite with a sync engine, maps, and AI-driven forecasts. **Top 10 at the NABARD Hackathon, Global Fintech Fest 2026.**
+
+### Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/BLoC-4B32C3?style=flat" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=black" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+- **Flutter & Dart:** BLoC/Cubit, Clean Architecture, Dio, GoRouter, GetIt, Freezed, Flutter Web, Material 3, platform channels, deep linking, offline-first design
+- **Quality:** unit and widget testing, TDD, SOLID, MVVM, Firebase Crashlytics
+- **Release:** Fastlane, Play Store, App Store, GitLab CI/CD, Gradle
+- **Tools:** Claude Code, Cursor, Android Studio, Xcode, Jira, Postman, Swagger
+
+### Education
+
+**Vellore Institute of Technology, AP**: B.Tech in Computer Science and Engineering, 2020–2024, GPA 8.72/10
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiiiiijit&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiiiiijit&layout=compact&hide_border=true" alt="Top languages" height="150" />
+</p>

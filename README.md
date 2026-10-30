@@ -15,7 +15,7 @@
 
 ### About me
 
-I'm a Flutter developer with **2.5+ years in student-lending fintech**. I've shipped **3 products** across the loan lifecycle: the LOS Portal, the Partner Portal and the **Kuhoo Student App**, which has **150K+ downloads** (100K+ on Play Store, 50K+ on App Store).
+I'm a Flutter developer with **3 years in student-lending fintech**. I've shipped **3 products** across the loan lifecycle: the LOS Portal, the Partner Portal and the **Kuhoo Student App**, which has **150K+ downloads** (100K+ on Play Store, 50K+ on App Store).
 
 My work has cut manual effort by **70–90%** for credit, partner and servicing teams through RBI-compliant journeys, from onboarding to CKYC, sanction and post-disbursement.
 
